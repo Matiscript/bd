@@ -1,0 +1,311 @@
+﻿SKU,Nombre,Marca,Categoria,Subcategoria,Precio_Sin_IVA,Precio_Con_IVA,ID_Imagen,Descripcion_Visual
+ELEC-001,Alargadera Alyco 50 mts,Alyco,Electricidad,Bases,65.00,78.65,electricidad_p02_01.png,Carrete enrollacables azul de 50 metros
+ELEC-002,Alargadera Simon 10 mts,Simon,Electricidad,Bases,22.00,26.62,electricidad_p02_02.png,Enrollacables compacto negro de 10 metros
+ELEC-003,Alargadera Chuco 2 mts,Genérica,Electricidad,Bases,7.50,9.08,electricidad_p02_03.png,Cable alargador blanco con clavija y base schuko
+ELEC-004,Alargadera Chuco 3 mts,Genérica,Electricidad,Bases,9.50,11.50,electricidad_p02_03.png,Cable alargador blanco con clavija y base schuko
+ELEC-005,Alargadera Chuco 5 mts,Genérica,Electricidad,Bases,12.00,14.52,electricidad_p02_03.png,Cable alargador blanco con clavija y base schuko
+ELEC-006,Base 3 Tomas 1.5 mts Cable,Genérica,Electricidad,Bases,7.50,9.08,electricidad_p02_04.png,Base múltiple blanca de 3 tomas con interruptor
+ELEC-007,Base 3 Tomas 3 mts Cable,Genérica,Electricidad,Bases,10.45,12.64,electricidad_p02_04.png,Base múltiple blanca de 3 tomas con interruptor
+ELEC-008,Base 4 Tomas 1.5 mts Cable,Genérica,Electricidad,Bases,7.50,9.08,electricidad_p02_05.png,Base múltiple blanca de 4 tomas con interruptor
+ELEC-009,Base 4 Tomas 3 mts Cable,Genérica,Electricidad,Bases,10.45,12.64,electricidad_p02_05.png,Base múltiple blanca de 4 tomas con interruptor
+ELEC-010,Base 6 Tomas 1.5 mts Cable,Genérica,Electricidad,Bases,12.45,15.06,electricidad_p02_06.png,Base múltiple blanca alargada de 6 tomas
+ELEC-011,Base 4 Tomas 1.5 mts Cable Negra,Genérica,Electricidad,Bases,9.25,11.19,electricidad_p02_07.png,Base múltiple negra de 4 tomas con interruptor
+ELEC-012,Alargadera 5 mts Toma 8,Genérica,Electricidad,Bases,16.75,20.27,electricidad_p02_08.png,Base múltiple blanca de 8 tomas en dos filas
+ELEC-013,Downlight 20W Superficie,Genérica,Electricidad,Bombillas/Focos,19.40,23.47,electricidad_p03_01.png,Plafón circular LED de superficie color blanco
+ELEC-014,Foco LED Embutido 18W,Genérica,Electricidad,Bombillas/Focos,14.70,17.79,electricidad_p03_02.png,Foco empotrable circular blanco extraplano
+ELEC-015,Downlight 9W Matel,Matel,Electricidad,Bombillas/Focos,8.50,10.29,electricidad_p03_03.png,Downlight LED empotrable circular blanco
+ELEC-016,Foco LED 18W Sobrepuesto Sensor EDM,EDM,Electricidad,Bombillas/Focos,24.00,29.04,electricidad_p03_04.png,Plafón LED circular de superficie con sensor
+ELEC-017,Equipo LED 36W Alfa,Alfa,Electricidad,Bombillas/Focos,42.75,51.73,electricidad_p03_05.png,Regleta estanca para tubo LED lineal
+ELEC-018,Tubo Fluorescente LED 18W,Matel,Electricidad,Bombillas/Focos,12.45,15.06,electricidad_p03_06.png,Tubo LED lineal blanco con casquillo
+ELEC-019,Tubo Antimosquito T-8 10W,Genérica,Electricidad,Bombillas/Focos,9.00,10.89,electricidad_p03_07.png,Tubo fluorescente antimosquitos luz amarilla
+ELEC-020,Tubo Antimosquito T-8 15W,Genérica,Electricidad,Bombillas/Focos,18.00,21.78,electricidad_p03_07.png,Tubo fluorescente antimosquitos luz amarilla
+ELEC-021,Lineal Halógeno 118,Genérica,Electricidad,Bombillas/Focos,2.75,3.33,electricidad_p03_08.png,Lámpara lineal halógena transparente de 118mm
+ELEC-022,Lineal Halógeno Matel,Matel,Electricidad,Bombillas/Focos,3.25,3.93,electricidad_p03_09.png,Lámpara lineal halógena en blíster Matel
+ELEC-023,Lámpara Farola 36W 5000K,Genérica,Electricidad,Bombillas/Focos,37.30,45.13,electricidad_p03_10.png,Bombilla LED industrial tipo mazorca para farola
+ELEC-024,Lámpara Farola 50W 6500K,Genérica,Electricidad,Bombillas/Focos,54.00,65.34,electricidad_p03_10.png,Bombilla LED industrial tipo mazorca para farola
+ELEC-025,Conjunto Luz de Emergencia Completo,Genérica,Electricidad,Bombillas/Focos,44.00,53.24,electricidad_p03_11.png,Bloque de emergencia luminoso con señal verde
+ELEC-026,Bombilla Matel Anti Insecto,Matel,Electricidad,Bombillas/Focos,3.50,4.24,electricidad_p04_01.png,Bombilla LED amarilla anti-insectos en caja Matel
+ELEC-027,Bombilla Horno,Genérica,Electricidad,Bombillas/Focos,2.00,2.42,electricidad_p04_02.png,Bombilla incandescente pequeña especial para horno
+ELEC-028,G9 LED 2700K,Genérica,Electricidad,Bombillas/Focos,4.50,5.45,electricidad_p04_03.png,Bombilla LED bi-pin casquillo G9 luz cálida
+ELEC-029,Bombilla GU10 5W Matel,Matel,Electricidad,Bombillas/Focos,2.00,2.42,electricidad_p04_04.png,Foco dicroico LED casquillo GU10 en caja Matel
+ELEC-030,Bombilla GU10 10W Matel,Matel,Electricidad,Bombillas/Focos,3.00,3.63,electricidad_p04_05.png,Foco dicroico LED casquillo GU10 cuerpo blanco
+ELEC-031,Bombilla MR16 5W Matel,Matel,Electricidad,Bombillas/Focos,2.00,2.42,electricidad_p04_06.png,Foco dicroico LED casquillo MR16 en caja Matel
+ELEC-032,Bombilla LED 5W E-14 EDM,EDM,Electricidad,Bombillas/Focos,2.50,3.03,electricidad_p04_07.png,Bombilla esférica LED casquillo fino E14 EDM
+ELEC-033,Bombilla Vela LED 5W E-14 EDM,EDM,Electricidad,Bombillas/Focos,2.00,2.42,electricidad_p04_08.png,Bombilla formato vela LED casquillo E14 EDM
+ELEC-034,Bombilla Filamento E-14 LED EDM,EDM,Electricidad,Bombillas/Focos,3.50,4.24,electricidad_p04_09.png,Bombilla de filamento LED vintage casquillo E14
+ELEC-035,Bombilla LED 20W 3000K,EDM,Electricidad,Bombillas/Focos,8.50,10.29,electricidad_p04_10.png,Bombilla LED estándar potente casquillo E27 EDM
+ELEC-036,Bombilla LED 7W Esférica Pequeña Matel,Matel,Electricidad,Bombillas/Focos,2.00,2.42,electricidad_p04_11.png,Bombilla LED esférica pequeña casquillo E27
+ELEC-037,Bombilla R90 12W EDM,EDM,Electricidad,Bombillas/Focos,8.50,10.29,electricidad_p04_12.png,Bombilla reflectora LED modelo R90 casquillo E27
+ELEC-038,Clavija Coaxial Macho/ Hembra EDM,EDM,Electricidad,Clavijas/Enchufes,1.00,1.21,electricidad_p05_01.png,Conectores de antena TV macho y hembra acodados
+ELEC-039,Clavija Chuco Hembra Reforzada,Genérica,Electricidad,Clavijas/Enchufes,2.85,3.45,electricidad_p05_02.png,Clavija schuko hembra aérea de color blanco
+ELEC-040,Base Enchufe Solera,Solera,Electricidad,Clavijas/Enchufes,4.50,5.45,electricidad_p05_03.png,Base de enchufe empotrable schuko color blanco
+ELEC-041,Clavija Bipolar Macho,Genérica,Electricidad,Clavijas/Enchufes,1.75,2.12,electricidad_p05_04.png,Clavija bipolar macho plana en negro y blanco
+ELEC-042,Clavija Bipolar Hembra,Genérica,Electricidad,Clavijas/Enchufes,1.75,2.12,electricidad_p05_05.png,Clavija bipolar hembra plana en negro y blanco
+ELEC-043,Clavija Chuco Engomada,Genérica,Electricidad,Clavijas/Enchufes,3.60,4.36,electricidad_p05_06.png,Clavija schuko macho engomada negra y azul
+ELEC-044,Clavija Macho Vitro,Genérica,Electricidad,Clavijas/Enchufes,6.50,7.87,electricidad_p05_07.png,Clavija de conexión especial para vitrocerámica
+ELEC-045,Base Hembra Vitro,Genérica,Electricidad,Clavijas/Enchufes,6.80,8.23,electricidad_p05_08.png,Base hembra de empotrar para vitrocerámica
+ELEC-046,Base Estanca IP44,Genérica,Electricidad,Clavijas/Enchufes,9.15,11.07,electricidad_p05_09.png,Enchufe de superficie estanco IP44 con tapa
+ELEC-047,Enchufe Estanco Famatel,Famatel,Electricidad,Clavijas/Enchufes,6.50,7.87,electricidad_p05_10.png,Base de enchufe estanca de superficie Famatel
+ELEC-048,Adaptador Triple Chuco T/T,EDM,Electricidad,Clavijas/Enchufes,5.50,6.66,electricidad_p05_11.png,Ladrón adaptador triple schuko con toma de tierra
+ELEC-049,Cincel Electricista,Genérica,Electricidad,Herramientas y Accesorios,6.75,8.17,electricidad_p06_01.png,Cincel plano de corte para electricista
+ELEC-050,Destornillador Irazola Busca Polo,Irazola,Electricidad,Herramientas y Accesorios,7.25,8.77,electricidad_p06_02.png,Destornillador buscapolos con mango transparente
+ELEC-051,Tijera Electricista Cromo/Vanadio Amig,Amig,Electricidad,Herramientas y Accesorios,17.90,21.66,electricidad_p06_03.png,Tijera de electricista con mango ergonómico rojo
+ELEC-052,Tijera Aislada Alyco,Alyco,Electricidad,Herramientas y Accesorios,14.00,16.94,electricidad_p06_04.png,Tijera aislada de electricista mango rojo y negro
+ELEC-053,Detector Cable Cat 400VCA,Genérica,Electricidad,Herramientas y Accesorios,39.50,47.80,electricidad_p06_05.png,Detector digital de tensión y cables ocultos
+ELEC-054,Crimpadora Televes,Televes,Electricidad,Herramientas y Accesorios,39.00,47.19,electricidad_p06_06.png,Tenaza crimpadora profesional para terminales
+ELEC-055,Pinza Amperimétrica HT,HT,Electricidad,Herramientas y Accesorios,105.00,127.05,electricidad_p06_07.png,Pinza amperimétrica digital con pantalla LCD
+ELEC-056,Polímetro Digital Stanley,Stanley,Electricidad,Herramientas y Accesorios,49.00,59.29,electricidad_p06_08.png,Multímetro digital compacto amarillo y negro
+ELEC-057,Multímetro Digital EDM,EDM,Electricidad,Herramientas y Accesorios,18.00,21.78,electricidad_p06_09.png,Multímetro digital negro con puntas de prueba
+ELEC-058,Programador Electrónico Digital,Genérica,Electricidad,Herramientas y Accesorios,11.80,14.28,electricidad_p06_10.png,Temporizador programador digital enchufable
+ELEC-059,Transformador 220-12V,Genérica,Electricidad,Herramientas y Accesorios,22.50,27.23,electricidad_p06_11.png,Fuente transformador electrónica 220V a 12V
+ELEC-060,Tira Ficha Empalme 6mm,Genérica,Electricidad,Herramientas y Accesorios,1.30,1.57,electricidad_p06_12.png,Regleta de conexión de clemas para cable 6mm
+ELEC-061,Tira Ficha Empalme 10mm,Genérica,Electricidad,Herramientas y Accesorios,1.90,2.30,electricidad_p06_12.png,Regleta de conexión de clemas para cable 10mm
+ELEC-062,Tira Ficha Empalme 12mm,Genérica,Electricidad,Herramientas y Accesorios,2.50,3.03,electricidad_p06_12.png,Regleta de conexión de clemas para cable 12mm
+ELEC-063,Cajillo,Genérica,Electricidad,Material de Instalación,0.50,0.61,electricidad_p07_01.png,Caja negra enlazable para empotrar mecanismos
+ELEC-064,Cajillo Pladur,Genérica,Electricidad,Material de Instalación,2.50,3.03,electricidad_p07_02.png,Caja redonda para tabiquería hueca tipo pladur
+ELEC-065,Caja Empalme 10x10 EDM,EDM,Electricidad,Material de Instalación,4.50,5.45,electricidad_p07_03.png,Caja de empalme estanca cuadrada de superficie
+ELEC-066,Caja Empalme 20x20 Solera,Solera,Electricidad,Material de Instalación,4.50,5.45,electricidad_p07_04.png,Caja cuadrada para empotrar registro de empalmes
+ELEC-067,Pasacable Negro,Genérica,Electricidad,Material de Instalación,3.50,4.24,electricidad_p07_05.png,Pasacables circular negro para mesa o mueble
+ELEC-068,Caja Registro 20x20 Con Tapa,Genérica,Electricidad,Material de Instalación,4.50,5.45,electricidad_p07_06.png,Caja cuadrada de registro con tapa blanca
+ELEC-069,Portalámpara E27,Genérica,Electricidad,Material de Instalación,1.00,1.21,electricidad_p07_07.png,Casquillo portalámparas cerámico para rosca E27
+ELEC-070,Portalámpara Pantalla E27,Genérica,Electricidad,Material de Instalación,3.50,4.24,electricidad_p07_08.png,Portalámparas blanco con rosca exterior para pantalla E27
+ELEC-071,Portalámpara E14,Genérica,Electricidad,Material de Instalación,1.50,1.82,electricidad_p07_09.png,Portalámparas blanco casquillo fino E14
+ELEC-072,Portalámpara Pantalla E14,Genérica,Electricidad,Material de Instalación,3.50,4.24,electricidad_p07_10.png,Portalámparas blanco con rosca para pantalla E14
+ELEC-073,Terminales Faston Solera 1.5mm,Solera,Electricidad,Material de Instalación,1.20,1.45,electricidad_p07_11.png,Terminales eléctricos tipo faston aislados
+ELEC-074,Terminales Faston Solera 4mm,Solera,Electricidad,Material de Instalación,2.30,2.78,electricidad_p07_11.png,Terminales eléctricos tipo faston aislados
+ELEC-075,Terminales Faston Solera 6mm,Solera,Electricidad,Material de Instalación,3.50,4.24,electricidad_p07_11.png,Terminales eléctricos tipo faston aislados
+ELEC-076,Terminales Faston Solera Doble 6mm,Solera,Electricidad,Material de Instalación,3.00,3.63,electricidad_p07_11.png,Terminales eléctricos faston dobles
+ELEC-077,Terminales Faston Solera Redondo Preaisl 4mm,Solera,Electricidad,Material de Instalación,0.30,0.36,electricidad_p07_11.png,Terminal eléctrico de ojal redondo preaislado
+ELEC-078,Linterna Alyco Cabeza LED,Alyco,Electricidad,Iluminación Portátil,12.75,15.43,electricidad_p07_12.png,Linterna frontal de cabeza con cinta elástica
+ELEC-079,Linterna EDM USB,EDM,Electricidad,Iluminación Portátil,19.80,23.96,electricidad_p08_01.png,Foco de trabajo LED portátil recargable USB
+ELEC-080,Guía Electricista 20 mts,Genérica,Electricidad,Herramientas y Accesorios,9.00,10.89,electricidad_p08_02.png,Guía pasacables de nylon de 20 metros con puntera
+ELEC-081,Metro Manguera 3x1 1/2,Genérica,Electricidad,Cables,1.85,2.24,electricidad_p08_03.png,Rollo de manguera eléctrica negra de 3 hilos
+ELEC-082,Metro Cable Silicona 4mm,Genérica,Electricidad,Cables,2.80,3.39,electricidad_p08_04.png,Cable unipolar rojo resistente al calor de silicona
+ELEC-083,Cable Antena 1.5 mts,Genérica,Electricidad,Cables,3.00,3.63,electricidad_p08_05.png,Prolongador de cable coaxial de antena TV blanco
+VARI001,Alambre Rollos 3mts Varios Tamaños,Genérica,Ferretería General,Alambres y Cables,1.00,1.21,varios_general_p02_01.png,Rollo pequeño de alambre galvanizado con etiqueta
+VARI002,Alambre Bobina 13mm,Genérica,Ferretería General,Alambres y Cables,6.80,8.23,varios_general_p02_02.png,Bobina circular de alambre de 13 mm
+VARI003,Cable Acero 20mts 3mm,Genérica,Ferretería General,Alambres y Cables,10.00,12.10,varios_general_p02_03.png,Rollo de cable de acero trenzado de 20 metros
+VARI004,Burlete Blanco Rollo,Genérica,Ferretería General,Aislamiento y Sellado,3.50,4.24,varios_general_p02_04.png,Rollo de tira de burlete adhesivo blanco
+VARI005,Burlete Bajo Puerta PVC,Genérica,Ferretería General,Aislamiento y Sellado,7.50,9.08,varios_general_p02_05.png,Tira de burlete rígido blanco con escobilla negra para bajo de puerta
+VARI006,Perfil Aluminio 30x30 Plata,Genérica,Ferretería General,Perfilería,14.00,16.94,varios_general_p02_06.png,Tramo de perfil angular de aluminio en acabado plata
+VARI007,Perfil Madera Pino 2.5mt,Genérica,Ferretería General,Perfilería,7.90,9.56,varios_general_p02_07.png,Perfil moldura de madera de pino de 2.5 metros
+VARI008,Tapajuntas Ancho Latón,Genérica,Ferretería General,Perfilería,24.63,29.80,varios_general_p02_08.png,Tira de tapajuntas ancho metálico con acabado en latón
+VARI009,Esquinera Aluminio Blanco Adhesiva,Genérica,Ferretería General,Perfilería,14.80,17.91,varios_general_p02_09.png,Perfil esquinero autoadhesivo de aluminio lacado en blanco
+VARI010,Esquinera PVC,Genérica,Ferretería General,Perfilería,8.50,10.29,varios_general_p03_01.png,Perfil esquinero rígido de PVC color gris claro
+VARI011,Canaleta Adhesiva 10x20,Genérica,Ferretería General,Canalización,3.65,4.42,varios_general_p03_02.png,Canaleta eléctrica plástica blanca autoadhesiva
+VARI012,Canaleta Adhesiva 15x10,Genérica,Ferretería General,Canalización,3.65,4.42,varios_general_p03_02.png,Canaleta eléctrica plástica blanca autoadhesiva
+VARI013,Canaleta Adhesiva 15x15,Genérica,Ferretería General,Canalización,4.80,5.81,varios_general_p03_02.png,Canaleta eléctrica plástica blanca autoadhesiva
+VARI014,Canaleta Adhesiva 25x20,Genérica,Ferretería General,Canalización,18.90,22.87,varios_general_p03_02.png,Canaleta eléctrica plástica blanca autoadhesiva
+VARI015,Esquinera Garaje,Genérica,Ferretería General,Señalización y Protección,14.00,16.94,varios_general_p03_03.png,Protector de esquina con franjas diagonales reflectantes amarillas y negras
+VARI016,Escuadra Reforzada 300x250,Genérica,Ferretería General,Soportería,5.80,7.02,varios_general_p03_04.png,Soporte en escuadra metálica reforzada blanca
+VARI017,Paquete Lija Blanda,Genérica,Ferretería General,Abrasivos,7.00,8.47,varios_general_p03_05.png,Juego de hojas de papel de lija flexible
+VARI018,Pliego Lija Agua,Genérica,Ferretería General,Abrasivos,0.90,1.09,varios_general_p03_06.png,Pliegos oscuros de lija al agua
+VARI019,Taco Lija,Genérica,Ferretería General,Abrasivos,1.00,1.21,varios_general_p03_07.png,Bloque esponja de lija rectangular abrasivo
+VARI020,Paquete Lija Mouse Stanley,Stanley,Ferretería General,Abrasivos,6.50,7.87,varios_general_p03_08.png,Blíster con hojas de lija con forma de delta para lijadora mouse
+VARI021,Cargador Pilas EDM,EDM,Ferretería General,Pilas y Cargadores,13.89,16.81,varios_general_p04_01.png,Cargador compacto blanco con ranuras para pilas recargables
+VARI022,Paquete Pilas Varta AA,Varta,Ferretería General,Pilas y Cargadores,1.80,2.18,varios_general_p04_02.png,Blíster con pilas alcalinas tamaño AA
+VARI023,Paquete Pilas Varta AAA,Varta,Ferretería General,Pilas y Cargadores,1.80,2.18,varios_general_p04_02.png,Blíster con pilas alcalinas tamaño AAA
+VARI024,Paquete Pilas Varta Longlife C,Varta,Ferretería General,Pilas y Cargadores,3.50,4.24,varios_general_p04_03.png,Blíster de pilas tamaño C medianas
+VARI025,Paquete Pilas Varta Longlife D,Varta,Ferretería General,Pilas y Cargadores,4.50,5.45,varios_general_p04_04.png,Blíster con pilas alcalinas grandes tamaño D
+VARI026,Pila Varta Longlife 4.5V,Varta,Ferretería General,Pilas y Cargadores,4.50,5.45,varios_general_p04_05.png,Pila cuadrada de petaca de 4.5V
+VARI027,Pila Varta CR2 3V,Varta,Ferretería General,Pilas y Cargadores,2.50,3.03,varios_general_p04_06.png,Blíster de litio con pila cilíndrica CR2 de 3V
+VARI028,Pilas Varta Botón CR2025,Varta,Ferretería General,Pilas y Cargadores,2.50,3.03,varios_general_p04_07.png,Blíster unitario con pila de botón de litio CR2025
+VARI029,Pilas Philips AAA,Philips,Ferretería General,Pilas y Cargadores,2.00,2.42,varios_general_p04_08.png,Blíster de 4 pilas cilíndricas Philips Power Alkaline AAA
+VARI030,Pila Philips 9V,Philips,Ferretería General,Pilas y Cargadores,4.50,5.45,varios_general_p04_09.png,Blíster con pila rectangular de 9V Philips
+VARI031,Topes Adhesivos c/Placa,Genérica,Ferretería General,Topes y Protección,1.15,1.39,varios_general_p05_01.png,Topes adhesivos para puerta en color blanco y marrón con base
+VARI032,Tope Puerta Goma,Genérica,Ferretería General,Topes y Protección,0.90,1.09,varios_general_p05_02.png,Tope cilíndrico de goma maciza marrón para fijar al suelo
+VARI033,Tope Adhesivo Inofix,Inofix,Ferretería General,Topes y Protección,4.75,5.75,varios_general_p05_03.png,Blíster con topes adhesivos para suelo y pomo
+VARI034,Cuña Goma Tope REI,REI,Ferretería General,Topes y Protección,4.80,5.81,varios_general_p05_04.png,Retenedor y cuña de tope de puerta de plástico blanco
+VARI035,Copia Llave Normal,Genérica,Ferretería General,Cerrajería y Llaves,1.00,1.21,varios_general_p05_05.png,Llaves estándar dentadas para duplicado
+VARI036,Copia Llave FAC,FAC,Ferretería General,Cerrajería y Llaves,2.00,2.42,varios_general_p05_05.png,Llave especial tipo borja / gorja para cerrojo FAC
+VARI037,Anilla Llavero Cromo,Genérica,Ferretería General,Accesorios de Llaves,0.25,0.30,varios_general_p05_06.png,Anilla espiral metálica cromada para llavero
+VARI038,Etiquetero,Genérica,Ferretería General,Accesorios de Llaves,0.25,0.30,varios_general_p05_07.png,Llavero identificador de plástico rojo con anilla
+VARI039,Rollo Cinta Americana,Genérica,Ferretería General,Cintas Adhesivas,4.50,5.45,varios_general_p05_08.png,Rollo de cinta americana reforzada gris
+VARI040,Cinta Balizaje,Genérica,Ferretería General,Señalización y Protección,6.95,8.41,varios_general_p05_09.png,Bobina de cinta plástica de señalización bicolor
+VARI041,Cinta Adhesiva Señalizar Amarillo-Negro,Genérica,Ferretería General,Señalización y Protección,22.75,27.53,varios_general_p05_10.png,Cinta ancha adhesiva con franjas amarillas y negras
+VARI042,Cinta Plata 50mt,Genérica,Ferretería General,Cintas Adhesivas,8.00,9.68,varios_general_p05_11.png,Bobina de cinta adhesiva plateada metalizada de 50 metros
+VARI043,Cinta Antideslizante 25x15,Tesa,Ferretería General,Cintas Adhesivas,14.25,17.24,varios_general_p05_12.png,Rollo de cinta antideslizante con textura rugosa
+VARI044,Cuerda Maroma MT,Genérica,Ferretería General,Cuerdas,1.70,2.06,varios_general_p06_01.png,Bobina cilíndrica de cuerda gruesa tipo maroma
+VARI045,Rollo Cáñamo Fino,Genérica,Ferretería General,Cuerdas,2.75,3.33,varios_general_p06_02.png,Ovillo de cuerda fina de fibra de cáñamo
+VARI046,Rollo Cáñamo 2mm,Genérica,Ferretería General,Cuerdas,3.75,4.54,varios_general_p06_02.png,Ovillo de cuerda de cáñamo de 2 mm
+VARI047,Rollo Tanza,Genérica,Ferretería General,Cuerdas,6.60,7.99,varios_general_p06_03.png,Bobina circular plana de tanza o hilo de nylon
+VARI048,Cordón Blanco Toldo MT,Genérica,Ferretería General,Cuerdas,0.50,0.61,varios_general_p06_04.png,Madeja de cordón trenzado blanco especial para toldo
+VARI049,Cordón Riel MT,Genérica,Ferretería General,Cuerdas,0.30,0.36,varios_general_p06_05.png,Bobina de cordel fino blanco para cortinas o rieles
+VARI050,Cordón Algodón MT,Genérica,Ferretería General,Cuerdas,0.60,0.73,varios_general_p06_06.png,Rollo de cordón blanco de algodón trenzado por metros
+VARI051,Cordón Algodón Rollo Completo,Genérica,Ferretería General,Cuerdas,74.00,89.54,varios_general_p06_06.png,Rollo completo de cordón blanco de algodón trenzado
+VARI052,Guantes Látex Desechables,Genérica,Ferretería General,Guantes,14.50,17.55,varios_general_p06_07.png,Guantes de látex desechables color azul
+VARI053,Guantes Anticorte Alfa,Alfa,Ferretería General,Guantes,18.60,22.51,varios_general_p06_08.png,Guantes técnicos de protección anticorte con recubrimiento en palma
+VARI054,Guantes Trabajo Nitrilo,Genérica,Ferretería General,Guantes,4.50,5.45,varios_general_p06_09.png,Par de guantes textiles con palma recubierta de nitrilo gris
+VARI055,Guante Goma Químico,Genérica,Ferretería General,Guantes,3.60,4.36,varios_general_p06_10.png,Guante de caña larga de goma oscura resistente a químicos
+VARI056,Blíster Fieltro Adhesivo 20mm,Genérica,Ferretería General,Protección de Suelos,1.50,1.82,varios_general_p07_02.png,Blíster con almohadillas cuadradas de fieltro marrón adhesivo de 20 mm
+VARI057,Bolsa Brida Nylon,Genérica,Ferretería General,Fijación,36.50,44.17,varios_general_p07_03.png,Paquete o bolsa de bridas de nylon
+VARI058,Bisagra Cazoleta Recta Inther,Inther,Ferretería General,Herrajes,2.50,3.03,varios_general_p07_04.png,Bisagra metálica de cazoleta recta para mueble de cocina
+VARI059,Pernio Inox 100,Genérica,Ferretería General,Herrajes,2.75,3.33,varios_general_p07_05.png,Pernio de acero inoxidable de 100 mm para puerta
+VARI060,Pernio Inox Canto Redondo,Genérica,Ferretería General,Herrajes,2.75,3.33,varios_general_p07_06.png,Pernio de bisagra en acero inoxidable con cantos redondeados
+VARI061,Muelle Cierra Puerta Justor,Justor,Ferretería General,Muelles,33.40,40.41,varios_general_p07_07.png,Dispositivo de cierre de puerta vertical con resorte Justor en color negro
+VARI062,Muelle Vaivén Blanco Justor,Justor,Ferretería General,Muelles,39.25,47.49,varios_general_p07_08.png,Mecanismo de muelle para puerta de vaivén en lacado blanco Justor
+VARI063,Muelle Hidráulico Telesco s/Retención,Telesco,Ferretería General,Muelles,58.90,71.27,varios_general_p07_09.png,Brazo cierrapuertas aéreo hidráulico articulado sin retención
+VARI064,Muelle Puerta Inther Negro,Inther,Ferretería General,Muelles,35.00,42.35,varios_general_p07_10.png,Cierrapuertas hidráulico aéreo en cuerpo negro con brazo articulado
+DROG-001,Cubo de Fregona Standart,Genérica,Droguería,Limpieza y Hogar,3.80,4.60,drogueria_p02_01.png,Cubo plástico azul rectangular
+DROG-002,Cubo Fregona Vileda,Vileda,Droguería,Limpieza y Hogar,7.90,9.56,drogueria_p02_02.png,Cubo rojo con escurridor
+DROG-003,Palo Fregona,Genérica,Droguería,Limpieza y Hogar,3.00,3.63,drogueria_p02_03.png,Palos metálicos para fregona
+DROG-004,Fregona Microfibra Vileda,Vileda,Droguería,Limpieza y Hogar,4.90,5.93,drogueria_p02_04.png,Recambio fregona tiras blancas
+DROG-005,Fregona Amarilla Vileda,Vileda,Droguería,Limpieza y Hogar,2.00,2.42,drogueria_p02_05.png,Recambio fregona tiras amarillas
+DROG-006,Bayeta Microfibra Pamex,Pamex,Droguería,Limpieza y Hogar,1.80,2.18,drogueria_p02_06.png,Paquete bayetas varios colores
+DROG-007,Bayeta Actifibre Soft Vileda,Vileda,Droguería,Limpieza y Hogar,3.50,4.24,drogueria_p02_07.png,Bayeta multiusos color rosa
+DROG-008,Bayeta Suave Ultra Fresh Vileda,Vileda,Droguería,Limpieza y Hogar,2.80,3.39,drogueria_p02_08.png,Paquete bayetas amarillas suaves
+DROG-009,Cepillo Barrer Vileda,Vileda,Droguería,Limpieza y Hogar,3.30,3.99,drogueria_p02_09.png,Cabezal cepillo barrer negro
+DROG-010,Recogedor,Genérica,Droguería,Limpieza y Hogar,2.80,3.39,drogueria_p03_01.png,Recogedor plástico rojo palo
+DROG-011,Recogedor Metálico,Genérica,Droguería,Limpieza y Hogar,12.00,14.52,drogueria_p03_02.png,Recogedor metálico con mango
+DROG-012,Bolsa Handy Bag Transp 45x45,Handy Bag,Droguería,Limpieza y Hogar,2.50,3.03,drogueria_p03_03.png,Rollo bolsas transparentes perfumadas
+DROG-013,Bolsa Basura Nethogar 54x60,Nethogar,Droguería,Limpieza y Hogar,2.60,3.15,drogueria_p03_04.png,Rollo bolsas basura negras
+DROG-014,Bolsa Basura Comunidad,Genérica,Droguería,Limpieza y Hogar,4.30,5.20,drogueria_p03_05.png,Rollo grande bolsas basura
+DROG-015,Pulverizador Químico 2082-2LT,Genérica,Droguería,Químicos y Tratamientos,15.68,18.97,drogueria_p03_06.png,Pulverizador presión previa blanco
+DROG-016,Fumigador Botella Betella,Betella,Droguería,Químicos y Tratamientos,25.70,31.10,drogueria_p03_07.png,Botella pulverizadora jardín verde
+DROG-017,Insecticida Preben Granulado,Preben,Droguería,Químicos y Tratamientos,8.50,10.29,drogueria_p03_08.png,Bote insecticida granulado amarillo
+DROG-018,Insecticida Preben Laca,Preben,Droguería,Químicos y Tratamientos,14.50,17.55,drogueria_p03_09.png,Bote spray insecticida laca
+DROG-019,Desatascador Melt,Melt,Droguería,Químicos y Tratamientos,8.50,10.29,drogueria_p03_10.png,Botella desatascador profesional Melt
+DROG-020,Limpiador Mopas Mayordomo,Mayordomo,Droguería,Químicos y Tratamientos,7.50,9.08,drogueria_p04_01.png,Aerosol naranja limpiador mopas
+DROG-021,Lejía Lagarto,Lagarto,Droguería,Limpieza y Hogar,2.40,2.90,drogueria_p04_02.png,Botella azul lejía desinfectante
+DROG-022,Bote Milagrito,El Milagrito,Droguería,Limpieza y Hogar,4.10,4.96,drogueria_p04_03.png,Botella desengrasante multiusos rojo
+DROG-023,Lata Zotal,Zotal,Droguería,Químicos y Tratamientos,6.50,7.87,drogueria_p04_04.png,Lata desinfectante Zotal amarilla
+DROG-024,Aguafuerte Kiriko,Kiriko,Droguería,Químicos y Tratamientos,2.40,2.90,drogueria_p04_05.png,Botella transparente salfumán aguafuerte
+DROG-025,Bote Aceite Lubricante 3 en 1,3 en 1,Droguería,Químicos y Tratamientos,12.50,15.13,drogueria_p04_06.png,Bote aerosol lubricante negro
+DROG-026,Bote Aceite WD-40 200ml,WD-40,Droguería,Químicos y Tratamientos,6.50,7.87,drogueria_p04_07.png,Bote spray azul WD-40
+DROG-027,Lubricante WD-40 500ml Abatible,WD-40,Droguería,Químicos y Tratamientos,9.50,11.50,drogueria_p04_08.png,Spray azul cánula abatible
+DROG-028,Bote Lubricante PTFE 400ml,GT85,Droguería,Químicos y Tratamientos,8.70,10.53,drogueria_p04_09.png,Bote spray lubricante teflón
+DROG-029,Bote Grasa Litio Faren 500gr,Faren,Droguería,Químicos y Tratamientos,12.50,15.13,drogueria_p04_10.png,Tarro cilíndrico grasa litio
+DROG-030,Grasa Litio Spray Compact,Compact,Droguería,Químicos y Tratamientos,8.50,10.29,drogueria_p04_11.png,Bote aerosol grasa litio
+DROG-031,Limpiador Poliuretano Quilosa,Quilosa,Droguería,Químicos y Tratamientos,8.60,10.41,drogueria_p04_12.png,Bote aerosol limpiador espuma
+DROG-032,Desatascador Paso Gel,Paso,Droguería,Químicos y Tratamientos,8.50,10.29,drogueria_p05_01.png,Botella gel desatascador gris
+DROG-033,Bote Antical y Oxido Paso,Paso,Droguería,Químicos y Tratamientos,8.45,10.22,drogueria_p05_02.png,Botella antical desincrustante gris
+DROG-034,Limpia Juntas Paso,Paso,Droguería,Químicos y Tratamientos,8.50,10.29,drogueria_p05_03.png,Pulverizador pistola limpia juntas
+DROG-035,Elimina Moho Paso,Paso,Droguería,Químicos y Tratamientos,8.75,10.59,drogueria_p05_04.png,Pulverizador antimoho blanco azul
+DROG-036,Elimina Grasa Paso,Paso,Droguería,Químicos y Tratamientos,7.50,9.08,drogueria_p05_05.png,Pulverizador desengrasante decapante potente
+DROG-037,Elimina Olores Paso,Paso,Droguería,Químicos y Tratamientos,10.50,12.71,drogueria_p05_06.png,Botella gris neutralizador olores
+DROG-038,Limpiador Plástico y PVC Paso,Paso,Droguería,Químicos y Tratamientos,8.50,10.29,drogueria_p05_07.png,Pulverizador limpiador para PVC
+DROG-039,Limpiador Terracota Paso,Paso,Droguería,Químicos y Tratamientos,9.50,11.50,drogueria_p05_08.png,Botella limpiador suelos porosos
+DROG-040,Protector Abrillantador Terracota Paso,Paso,Droguería,Químicos y Tratamientos,14.90,18.03,drogueria_p05_09.png,Botella abrillantador suelo terracota
+DROG-041,Quitacemento Paso,Paso,Droguería,Químicos y Tratamientos,8.50,10.29,drogueria_p05_10.png,Botella desincrustante residuos obra
+DROG-042,Elimina Algas y Verdín Paso,Paso,Droguería,Químicos y Tratamientos,11.50,13.92,drogueria_p05_11.png,Botella producto antiverdín concentrado
+DROG-043,Decapante Universal Paso,Paso,Droguería,Químicos y Tratamientos,13.50,16.34,drogueria_p05_12.png,Botella decapante universal pinturas
+DROG-044,Masilla Aguaplast 1kg,Aguaplast,Droguería,Masillas y Siliconas,6.90,8.35,drogueria_p06_01.png,Bote pasta estándar blanco
+DROG-045,Masilla Poliuretano Compact,Compact,Droguería,Masillas y Siliconas,6.50,7.87,drogueria_p06_02.png,Cartucho azul masilla sellado
+DROG-046,Bote Masilla Wengue,Aguaplast,Droguería,Masillas y Siliconas,4.80,5.81,drogueria_p06_03.png,Tubo masilla madera oscura
+DROG-047,Bote Masilla Madera Blanca,Compact,Droguería,Masillas y Siliconas,4.00,4.84,drogueria_p06_04.png,Tubo masilla madera blanca
+DROG-048,Espuma Poliuretano Fischer,Fischer,Droguería,Masillas y Siliconas,12.80,15.49,drogueria_p06_05.png,Bote aerosol espuma expansiva
+DROG-049,Bote Rocadu,Rocadura,Droguería,Masillas y Siliconas,14.50,17.55,drogueria_p06_06.png,Bote masilla poliéster catalizador
+DROG-050,Silicona Ucaf,Ucaf,Droguería,Masillas y Siliconas,3.50,4.24,drogueria_p06_07.png,Cartucho silicona neutra transparente
+DROG-051,Bote Stop Moho,Ceys,Droguería,Masillas y Siliconas,7.80,9.44,drogueria_p06_08.png,Cartucho silicona blanca antimoho
+DROG-052,Cartucho Montack,Ceys,Droguería,Masillas y Siliconas,9.55,11.56,drogueria_p06_09.png,Cartucho adhesivo agarre total
+DROG-053,Bote Cola Blanca 75ml Ceys,Ceys,Droguería,Adhesivos y Pegamentos,2.50,3.03,drogueria_p07_01.png,Biberón pequeño pegamento madera
+DROG-054,Bote Cola Blanca 500ml Ceys,Ceys,Droguería,Adhesivos y Pegamentos,6.40,7.74,drogueria_p07_02.png,Biberón amarillo cola rápida
+DROG-055,Bote Cola Blanca 750ml,Ceys,Droguería,Adhesivos y Pegamentos,9.50,11.50,drogueria_p07_03.png,Bote grande cola blanca
+DROG-056,Bote Cola Spray Faren,Faren,Droguería,Adhesivos y Pegamentos,7.50,9.08,drogueria_p07_04.png,Bote aerosol adhesivo spray
+DROG-057,Bote Cristal 21,Cola 21,Droguería,Adhesivos y Pegamentos,6.50,7.87,drogueria_p07_05.png,Bote dosificador cianocrilato líquido
+DROG-058,Cola 21 Gel,Cola 21,Droguería,Adhesivos y Pegamentos,3.50,4.24,drogueria_p07_06.png,Blíster cianocrilato fórmula gel
+DROG-059,Bote Cola de Contacto Ceys,Ceys,Droguería,Adhesivos y Pegamentos,3.50,4.24,drogueria_p07_07.png,Lata cola contacto universal
+DROG-060,Blíster Monodosis Ultraunick,Ceys,Droguería,Adhesivos y Pegamentos,5.80,7.02,drogueria_p07_08.png,Blíster tubos monodosis pegamento
+DROG-061,Blíster Ultraunick 3gr,Ceys,Droguería,Adhesivos y Pegamentos,4.45,5.38,drogueria_p07_09.png,Blíster tubo adhesivo instantáneo
+DROG-062,Ultraunick Ceys 5gr,Ceys,Droguería,Adhesivos y Pegamentos,5.80,7.02,drogueria_p07_10.png,Blíster pegamento pincel aplicador
+DROG-063,Total Tech 10gr,Ceys,Droguería,Adhesivos y Pegamentos,6.62,8.01,drogueria_p07_11.png,Tubo azul masilla polímero
+DROG-064,Bote Cartucho Total Tech,Ceys,Droguería,Adhesivos y Pegamentos,9.50,11.50,drogueria_p07_12.png,Cartucho adhesivo sellador blanco
+DROG-065,Bote Cartucho Total Tech Color,Ceys,Droguería,Adhesivos y Pegamentos,9.85,11.92,drogueria_p07_12.png,Cartucho adhesivo sellador color
+DROG-066,Bote Adhesivo Sin Clavos Compact,Compact,Droguería,Adhesivos y Pegamentos,7.50,9.08,drogueria_p08_01.png,Cartucho masilla montaje agarre
+DROG-067,Pegamento Contac Gel 3gr,Compact,Droguería,Adhesivos y Pegamentos,3.50,4.24,drogueria_p08_02.png,Tubo pegamento contacto gel
+DROG-068,Pegamento Compact Gel 5gr con Pincel,Compact,Droguería,Adhesivos y Pegamentos,5.80,7.02,drogueria_p08_03.png,Adhesivo instantáneo con brocha
+DROG-069,Super Barra Ceys,Ceys,Droguería,Adhesivos y Pegamentos,7.50,9.08,drogueria_p08_04.png,Barra masilla epoxi reconstruye
+DROG-070,Blíster Total Extreme Fischer,Fischer,Droguería,Adhesivos y Pegamentos,9.55,11.56,drogueria_p08_05.png,Blíster pegamento extra fuerte
+DROG-071,Pintura Valón 600 Valentine 15lts,Valentine,Droguería,Pinturas y Accesorios,98.50,119.19,drogueria_p08_06.png,Cubo pintura plástica blanco
+DROG-072,Oxi Titan Blanco Liso Mate 750ml,Oxiron,Droguería,Pinturas y Accesorios,28.50,34.49,drogueria_p08_07.png,Bote esmalte antioxidante blanco
+DROG-073,Bote Pintura Spray,Pintyplus,Droguería,Pinturas y Accesorios,7.85,9.50,drogueria_p08_08.png,Spray pintura acrílica aluminio
+DROG-074,Pintura Valacryl Valentine 4lts,Valentine,Droguería,Pinturas y Accesorios,82.50,99.83,drogueria_p08_09.png,Bote esmalte al agua mate
+DROG-075,Pintura Valentine 1kg,Valentine,Droguería,Pinturas y Accesorios,10.50,12.71,drogueria_p08_10.png,Bote esmalte laca satinado
+DROG-076,Pintura Esmalte Valentine 750ml,Valentine,Droguería,Pinturas y Accesorios,10.50,12.71,drogueria_p08_11.png,Bote esmalte brillante Valrex
+DROG-077,Rotuladores Color Madera,Genérica,Droguería,Pinturas y Accesorios,6.45,7.80,drogueria_p09_01.png,Rotuladores retoque tonos madera
+DROG-078,Disolvente Universal 5L Chapa,Genérica,Droguería,Pinturas y Accesorios,22.00,26.62,drogueria_p09_02.png,Bidón metálico rectangular disolvente
+DROG-079,Disolvente 500ml,SPB,Droguería,Pinturas y Accesorios,2.50,3.03,drogueria_p09_03.png,Botella cilíndrica disolvente universal
+DROG-080,Disolvente 1000ml,SPB,Droguería,Pinturas y Accesorios,4.50,5.45,drogueria_p09_04.png,Lata un litro disolvente
+DROG-081,Cubeta para Pintura 16L Plástico 2 Asa c/Rejilla CU26,Genérica,Droguería,Pinturas y Accesorios,4.50,5.45,drogueria_p09_05.png,Cubeta plástica rejilla escurridora
+DROG-082,Mango Rodillo Mini,Genérica,Droguería,Pinturas y Accesorios,1.80,2.18,drogueria_p09_06.png,Mango varilla rodillo estrecho
+DROG-083,Esponjas Rodillo Mini,Genérica,Droguería,Pinturas y Accesorios,1.00,1.21,drogueria_p09_07.png,Recambio rodillo espuma blanca
+DROG-084,Rodillo Antigoteo,Genérica,Droguería,Pinturas y Accesorios,7.90,9.56,drogueria_p09_08.png,Rodillo pintor pelo antigoteo
+DROG-085,Brocha Redonda 16mm,Genérica,Droguería,Pinturas y Accesorios,3.70,4.48,drogueria_p09_09.png,Pinceles y brochas redondas
+DROG-086,Brocha Plana 16mm,Genérica,Droguería,Pinturas y Accesorios,1.80,2.18,drogueria_p09_10.png,Paletina plana cerda natural
+DROG-087,Brocha Plana 55mm,Genérica,Droguería,Pinturas y Accesorios,2.55,3.09,drogueria_p09_10.png,Paletina plana cerda natural
+DROG-088,Paletina 25mm,Genérica,Droguería,Pinturas y Accesorios,2.75,3.33,drogueria_p09_11.png,Paletinas cerda mango madera
+DROG-089,Paletina 30mm,Genérica,Droguería,Pinturas y Accesorios,2.85,3.45,drogueria_p09_11.png,Paletinas cerda mango madera
+DROG-090,Paletina 52mm,Genérica,Droguería,Pinturas y Accesorios,4.50,5.45,drogueria_p09_11.png,Paletinas cerda mango madera
+DROG-091,Paletina 70mm,Genérica,Droguería,Pinturas y Accesorios,5.30,6.41,drogueria_p09_11.png,Paletinas cerda mango madera
+DROG-092,Pincel 6mm,Genérica,Droguería,Pinturas y Accesorios,1.50,1.82,drogueria_p09_12.png,Pinceles cabo fino artista
+DROG-093,Pincel 12mm,Genérica,Droguería,Pinturas y Accesorios,1.65,2.00,drogueria_p09_12.png,Pinceles cabo fino artista
+DROG-094,Pincel 14mm,Genérica,Droguería,Pinturas y Accesorios,1.68,2.03,drogueria_p09_12.png,Pinceles cabo fino artista
+DROG-095,Pincel 16mm,Genérica,Droguería,Pinturas y Accesorios,1.75,2.12,drogueria_p09_12.png,Pinceles cabo fino artista
+DROG-096,Manta Absorbente Pintor 10mts,Genérica,Droguería,Pinturas y Accesorios,14.00,16.94,drogueria_p10_01.png,Bobina fieltro protector gris
+DROG-097,Manta Absorbente Pintor 25mts,Genérica,Droguería,Pinturas y Accesorios,37.00,44.77,drogueria_p10_02.png,Rollo fieltro cubresuelos gris
+DROG-098,Cubre Todo EDM,EDM,Droguería,Pinturas y Accesorios,1.84,2.23,drogueria_p10_03.png,Paquete film protector doblado
+DROG-099,Metro Plástico Reforzado,Genérica,Droguería,Pinturas y Accesorios,4.75,5.75,drogueria_p10_04.png,Bobina plástico film transparente
+CERR-001,Barra Antipánico Cisa,CISA,Cerrajería,Barras Antipánico,165.90,200.74,cerrajeria_p02_01.png,Barra antipánico horizontal de pomo y barra verde con soportes negros.
+CERR-002,Barra Antipánico Inther,INTHER,Cerrajería,Barras Antipánico,110.00,133.10,cerrajeria_p02_02.png,Barra antipánico horizontal tubular de color rojo con mecanismos laterales negros.
+CERR-003,Cerradura Antipánico Inther,INTHER,Cerrajería,Cerraduras Antipánico,27.50,33.28,cerrajeria_p02_03.png,Caja de cerradura de embutir antipánico con frente metálico plateado.
+CERR-004,Cerradura 2003/30 Inther,INTHER,Cerrajería,Cerraduras,24.00,29.04,cerrajeria_p02_04.png,Cerradura de embutir para carpintería metálica con frente de acero.
+CERR-005,Cerradura MCM Mod-16-01-2,MCM,Cerrajería,Cerraduras,46.00,55.66,cerrajeria_p02_05.png,Mecanismo de cerradura estrecha con picaporte y palanca basculante.
+CERR-006,Cerradura 23R Urko Bombillo Extralargo,URKO,Cerrajería,Cerraduras,38.50,46.59,cerrajeria_p02_06.png,Cerradura de sobreponer con acabado dorado y cilindro redondo de longitud especial.
+CERR-007,Cerradura Armario Aga,AGA,Cerrajería,Cerraduras para Muebles,15.50,18.76,cerrajeria_p02_07.png,Cerradura cuadrada cromada para puerta de armario o taquilla con llaves.
+CERR-008,Cerradura Ventana Corredera Negra Ferpasa,FERPASA,Cerrajería,Cierres de Ventana,12.50,15.13,cerrajeria_p02_08.png,"Cierre embutido para ventana corredera en acabado negro, presentado en blíster verde."
+CERR-009,Juego Uñero Cerradura Negro Mate,Genérica,Cerrajería,Cierres de Ventana,27.00,32.67,cerrajeria_p02_09.png,Par de manillas uñero embutidas para puerta corredera en color negro mate.
+CERR-010,Cerradura Lince 5401/25,LINCE,Cerrajería,Cerraduras,38.00,45.98,cerrajeria_p03_01.png,Cerradura de embutir de perfil estrecho con frente y mecanismo en latón.
+CERR-011,Picaporte Tubular Amig Pomo,AMIG,Cerrajería,Picaportes,3.50,4.24,cerrajeria_p03_02.png,Mecanismo de picaporte tubular para pomo en acabado niquelado/dorado.
+CERR-012,Picaporte Cerradura Ucem,UCEM,Cerrajería,Picaportes,18.00,21.78,cerrajeria_p03_03.png,Mecanismo de picaporte de embutir con frente largo dorado.
+CERR-013,Cerradura Cajón BYP,BYP,Cerrajería,Cerraduras para Muebles,12.75,15.43,cerrajeria_p03_04.png,Cerradura para cajón con bombillo cilíndrico cromado y llaves articuladas.
+CERR-014,Picaporte 200/70 Inox Inther,INTHER,Cerrajería,Picaportes,6.50,7.87,cerrajeria_p03_05.png,Picaporte de embutir de petaca con frente de acero inoxidable.
+CERR-015,Picaporte C/R Placa Larga Inox Inther Petaca 70,INTHER,Cerrajería,Picaportes,8.50,10.29,cerrajeria_p03_06.png,Picaporte con placa frontal larga de esquinas redondeadas en acero inoxidable.
+CERR-016,Picaporte Condena Negro Inther,INTHER,Cerrajería,Picaportes,8.50,10.29,cerrajeria_p03_07.png,Picaporte con mecanismo de condena y pestillo acabado en color negro.
+CERR-017,Picaporte Petaca Grande Lince,LINCE,Cerrajería,Picaportes,12.50,15.13,cerrajeria_p03_08.png,Picaporte de embutir de petaca grande con frontal acabado en acero inoxidable.
+CERR-018,Bombillo Inther Seguridad,INTHER,Cerrajería,Bombillos,19.00,22.99,cerrajeria_p03_09.png,Cilindro europerfil de seguridad con llaves de puntos y cuello largo con funda plástica negra.
+CERR-019,Bombillo Seguridad Tesa T60,TESA,Cerrajería,Bombillos,35.40,42.83,cerrajeria_p03_10.png,Bombillo de alta seguridad europerfil niquelado con caja comercial Tesa T60.
+CERR-020,Bombillo Latón Descentrado Serreta 90mm,Genérica,Cerrajería,Bombillos,30.80,37.27,cerrajeria_p03_11.png,Cilindro europerfil descentrado de latón de 90 mm con juego de llaves de serreta.
+CERR-021,Bombillo Oval Iseo,ISEO,Cerrajería,Bombillos,23.50,28.44,cerrajeria_p03_12.png,Cilindro de perfil ovalado fabricado en latón macizo con leva central.
+CERR-022,Bombillo Seguridad 35x35 Amig,AMIG,Cerrajería,Bombillos,18.00,21.78,cerrajeria_p04_01.png,Bombillo europerfil centrado de 70 mm (35x35) en acabado latón satinado.
+CERR-023,Bombillo Serreta 30x30 Inther,INTHER,Cerrajería,Bombillos,18.00,21.78,cerrajeria_p04_02.png,Bombillo europerfil centrado 30x30 niquelado para llave de serreta.
+CERR-024,Bombillo Serreta Abus 60,ABUS,Cerrajería,Bombillos,18.50,22.39,cerrajeria_p04_03.png,Cilindro de serreta europerfil acabado en níquel satinado de 60 mm.
+CERR-025,Bombillo Serreta Cisa 35x40 L,CISA,Cerrajería,Bombillos,21.40,25.89,cerrajeria_p04_04.png,Cilindro europerfil descentrado 35x40 en latón con juego de llaves de serreta.
+CERR-026,Cierre Silencioso,Genérica,Cerrajería,Cierres y Retenedores,0.90,1.09,cerrajeria_p04_05.png,Retenedor amortiguador cilíndrico de plástico gris para cierre silencioso de puertas.
+CERR-027,Electrónico JIS 1711,JIS,Cerrajería,Cerraduras Electrónicas,19.50,23.60,cerrajeria_p04_06.png,Abrepuertas eléctrico con armadura metálica corta y pestillo automático.
+CERR-028,Pestillera Electrónica JIS 1040 Mini,JIS,Cerrajería,Cerraduras Electrónicas,22.80,27.59,cerrajeria_p04_07.png,Mecanismo de cerradero eléctrico de tamaño reducido con frontal largo gris.
+CERR-029,Mecanismo Electrónico Dorga 12QV,DORGA,Cerrajería,Cerraduras Electrónicas,24.50,29.65,cerrajeria_p04_08.png,Abrepuertas eléctrico de 12V con placa frontal metálica larga.
+CERR-030,Cerradura Electrónica Iseo Voton,ISEO,Cerrajería,Cerraduras Electrónicas,74.50,90.15,cerrajeria_p04_09.png,Cerradura eléctrica de sobreponer metálica en color gris con pulsador incorporado.
+CERR-031,Cerradura Taquilla Metálica Ojmar,OJMAR,Cerrajería,Cerraduras Buzón,10.50,12.71,cerrajeria_p05_01.png,Cerradura de leva roscada cilíndrica metálica para taquilla o buzón con llaves.
+CERR-032,Cerradura Buzón 30mm BYP,BYP,Cerrajería,Cerraduras Buzón,9.50,11.50,cerrajeria_p05_01.png,Cerradura cilíndrica de leva roscada de 30 mm cromada con llaves.
+CERR-033,Cerradura Corredera Alca,ALCA,Cerrajería,Cerraduras Buzón,11.50,13.92,cerrajeria_p05_02.png,Cerradura de presión y pulsador en latón para vitrinas o puertas correderas.
+CERR-034,Cerradura Presión Buzón Aga,AGA,Cerrajería,Cerraduras Buzón,6.90,8.35,cerrajeria_p05_03.png,Cerradura de fijación a presión para buzón metálico con lengüeta.
+CERR-035,Cerradura Taquilla 25mm ACU,ACU,Cerrajería,Cerraduras Buzón,8.35,10.10,cerrajeria_p05_03.png,Cerradura de clip a presión para taquilla de 25 mm con lengüeta de bloqueo.
+CERR-036,Cerradura Arregui,ARREGUI,Cerrajería,Cerraduras Buzón,12.50,15.13,cerrajeria_p05_04.png,Bombillo de leva curvada en latón para buzón Arregui con juego de llaves.
+CERR-037,Candado Clave BYP,BYP,Cerrajería,Candados,7.50,9.08,cerrajeria_p05_05.png,Candado rectangular con combinación de diales numéricos de latón.
+CERR-038,Candado Clave Lince,LINCE,Cerrajería,Candados,14.50,17.55,cerrajeria_p05_05.png,Candado de combinación numérica con cuerpo metálico y arco de acero.
+CERR-039,Candado Latón,Genérica,Cerrajería,Candados,3.50,4.24,cerrajeria_p05_06.png,Juego de candados clásicos con cuerpo de latón macizo y arco estándar.
+CERR-040,Candado Latón Arco Largo,Genérica,Cerrajería,Candados,3.80,4.60,cerrajeria_p05_07.png,Candados de cuerpo de latón macizo con arco de acero extendido.
+CERR-041,Portacandado FAC,FAC,Cerrajería,Candados,8.00,9.68,cerrajeria_p05_08.png,Pasador portacandado de seguridad articulado de acero galvanizado.
+CERR-042,Candado Cancela,Genérica,Cerrajería,Candados,32.60,39.45,cerrajeria_p05_09.png,Candado blindado monobloque de alta seguridad para cancela o persiana comercial.
+CERR-043,Barra Aparcamiento Abatible,Genérica,Cerrajería,Barreras y Cepos,120.00,145.20,cerrajeria_p05_10.png,Barrera abatible en arco para reserva de plaza de aparcamiento con cerradura.
+CERR-044,Cerrojo 91C/80 FAC,FAC,Cerrajería,Cerrojos,20.00,24.20,cerrajeria_p06_01.png,Cerrojo de sobreponer con barra de cierre pasante y placa base de anclaje.
+CERR-045,Cerrojo 301R/80 FAC,FAC,Cerrajería,Cerrojos,48.50,58.69,cerrajeria_p06_02.png,"Cerrojo de seguridad con bombillo redondo exterior, botón interior y llaves."
+CERR-046,Cerrojo 101R FAC,FAC,Cerrajería,Cerrojos,42.80,51.79,cerrajeria_p06_03.png,Cerrojo de barra de seguridad tradicional con cerradero en acabado gris texturado.
+CERR-047,Cerrojo 101R/105 Inther,INTHER,Cerrajería,Cerrojos,25.00,30.25,cerrajeria_p06_04.png,Cerrojo de sobreponer para apertura derecha con barra horizontal de 105 mm.
+CERR-048,Cerrojo 101L/105 Inther,INTHER,Cerrajería,Cerrojos,30.00,36.30,cerrajeria_p06_05.png,Cerrojo de sobreponer para apertura izquierda con barra de 105 mm.
+CERR-049,Bisagra 155/100 Acero Inox,Genérica,Cerrajería,Bisagras y Pernios,14.75,17.85,cerrajeria_p06_06.png,Bisagra de pala recta de 155x100 mm en acero inoxidable con cuatro orificios por pala.
+CERR-050,Bisagra 540/70,Genérica,Cerrajería,Bisagras y Pernios,7.50,9.08,cerrajeria_p06_07.png,Bisagra de pala en acabado latonado brillante de 70 mm con pasador.
+CERR-051,Bisagra 541/70 Con Remate,Genérica,Cerrajería,Bisagras y Pernios,7.50,9.08,cerrajeria_p06_08.png,Bisagra latonada de 70 mm con remates decorativos en los extremos del eje.
+CERR-052,Bisagra Latonada Mod-210 60x40,Genérica,Cerrajería,Bisagras y Pernios,1.80,2.18,cerrajeria_p06_09.png,Bisagra pequeña latonada modelo 210 de 60x40 mm para puertas ligeras o tapas.
+CERR-053,Bisagra Inoxidable 100 Inther,INTHER,Cerrajería,Bisagras y Pernios,3.60,4.36,cerrajeria_p06_10.png,Bisagra de seguridad de 100 mm en acero inoxidable con certificación CE.
+CERR-054,Bisagra Doble Accion Inther Plata,INTHER,Cerrajería,Bisagras y Pernios,22.00,26.62,cerrajeria_p06_11.png,Bisagra de vaivén de doble acción con resorte helicoidal acabado en plata.
+CERR-055,Bisagra Doble Accion Justor,JUSTOR,Cerrajería,Bisagras y Pernios,36.50,44.17,cerrajeria_p07_01.png,Bisagra de vaivén de resorte doble acción en acabado metálico plateado.
+CERR-056,Bisagra Inox Amig 3036,AMIG,Cerrajería,Bisagras y Pernios,21.12,25.56,cerrajeria_p07_02.png,Bisagra con muelle de cierre en acero inoxidable satinado modelo 3036.
+CERR-057,Bisagra Justor Muelle 120 Oro,JUSTOR,Cerrajería,Bisagras y Pernios,36.50,44.17,cerrajeria_p07_03.png,Bisagra de retorno con resorte de 120 mm en acabado oro/latón.
+CERR-058,Bisagra Cazoleta Recta Inther,INTHER,Cerrajería,Bisagras y Pernios,2.50,3.03,cerrajeria_p07_04.png,Bisagra de cazoleta recta de 35 mm con base de montaje para mueble.
+CERR-059,Pernio Inox 100,Genérica,Cerrajería,Bisagras y Pernios,2.75,3.33,cerrajeria_p07_05.png,Pernio desmontable de dos alas en acero inoxidable de 100 mm con cantos rectos.
+CERR-060,Pernio Inox Canto Redondo,Genérica,Cerrajería,Bisagras y Pernios,2.75,3.33,cerrajeria_p07_06.png,Pernio desmontable en acero inoxidable con bordes y cantos redondeados.
+CERR-061,Muelle Cierra Puerta Justor,JUSTOR,Cerrajería,Muelles,33.40,40.41,cerrajeria_p07_07.png,Freno retenedor de muelle con brazo articulado y rodillo de goma en negro.
+CERR-062,Muelle Vaivén Blanco Justor,JUSTOR,Cerrajería,Muelles,39.25,47.49,cerrajeria_p07_08.png,Mecanismo de muelle para puerta de vaivén con carcasa tubular lacada en blanco.
+CERR-063,Muelle Hidráulico Telesco S/Retención,TELESCO,Cerrajería,Muelles,58.90,71.27,cerrajeria_p07_09.png,Cierrapuertas hidráulico aéreo con brazo articulado en acabado plateado.
+CERR-064,Muelle Puerta Inther Negro,INTHER,Cerrajería,Muelles,35.00,42.35,cerrajeria_p07_10.png,Cierrapuertas aéreo con cuerpo hidráulico y brazo articulado en color negro.
